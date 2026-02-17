@@ -1,4 +1,6 @@
 # 💫 About Me:
+# Noormaah naveed
+
 🌱 I’m currently working on improving my development skills and building innovative software projects.<br>🤝 I’m looking to collaborate on open-source projects and creative tech ideas.<br>💡 I’m looking for help with advanced machine learning concepts and real-world application development.<br>📚 I’m currently learning new frameworks and exploring AI-based solutions.<br>💬 Ask me about Python, software development, and beginner-friendly tech projects.<br>⚡ Fun fact: I enjoy turning simple ideas into interactive and practical applications!<br>
 
 
